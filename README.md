@@ -21,7 +21,7 @@
 >	> - 초음파 센서로 물통의 유무 파악 
 
 ## 순서도 
----------------------
+
 - 물통   
 <img src="./image/water_bottle_flowchart.JPG">
 
