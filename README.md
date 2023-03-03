@@ -25,6 +25,4 @@
 - 물통   
 <img src="./image/water_bottle_flowchart.JPG">
 
--------------------
-- 약통
-<img src="./image/medicine_flowchart.JPG"> 
+----------------------------------
